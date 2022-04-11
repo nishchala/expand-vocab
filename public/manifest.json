@@ -6,9 +6,9 @@
   "description": "Word-meaning displayed on new tab",
   "icons": 
     {
-      "16": "NnFav16.ico",
-      "48": "NnFav48.ico",
-      "128": "NnFav128.ico"
+      "16": "NnFav16.png",
+      "48": "NnFav32.png",
+      "128": "NnFav96.png"
     },
   "chrome_url_overrides": {
     "newtab": "index.html"
